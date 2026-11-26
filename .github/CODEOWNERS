@@ -1,0 +1,4 @@
+# Automatically generated CODEOWNERS
+# Regenerate with `make update-codeowners`
+draft-ietf-jmap-tasks.md rjbs@semiotic.systems happel@audriga.com
+draft-signes-calext-jstask.md rjbs@semiotic.systems
