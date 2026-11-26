@@ -2,7 +2,7 @@
 title: "JSON Meta Application Protocol (JMAP) for Task Lists"
 abbrev: "JMAP for Task Lists"
 category: std
-docname: draft-ietf-jmap-tasks-07
+docname: draft-ietf-jmap-tasks-latest
 submissiontype: IETF
 number:
 date:
